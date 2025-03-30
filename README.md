@@ -1,5 +1,5 @@
 # MoreJavaPractice
-Brushed up on fundamentals of java with data structures and collections. Im creating a study guide for MAANG/Big Tech comapnies currently
+Brushed up on fundamentals of java with data structures and collections. Im creating a study guide for MAANG/Big Tech companies currently
 
 Resources Ive been using so far:
 Leetcode--obviously
